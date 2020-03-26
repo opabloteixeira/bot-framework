@@ -1,0 +1,18 @@
+{
+    "name": "Bot01",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "a28ef7f0-6f8a-11ea-967f-afa9dae6aeda",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/home/pab/Documentos/dev/botframework/myJsBot/my-chat-bot/Bot01.bot"
+}
